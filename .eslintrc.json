@@ -41,7 +41,8 @@
             "prefix": "angular-template",
             "style": "kebab-case"
           }
-        ]
+        ],
+        "@angular-eslint/no-host-metadata-property": 0
       }
     },
     {
