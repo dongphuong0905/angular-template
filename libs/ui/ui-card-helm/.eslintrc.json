@@ -30,7 +30,8 @@
             "prefix": "hlm",
             "style": "kebab-case"
           }
-        ]
+        ],
+        "@angular-eslint/no-host-metadata-property": 0
       }
     },
     {
